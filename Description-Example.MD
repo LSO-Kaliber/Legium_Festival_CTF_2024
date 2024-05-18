@@ -1,11 +1,11 @@
 # Nama Soal
 ## Description
 
-Autho : -
+Author : -
 
 Difficulty : -
 
-Description : (Wajib menggunakan bahasa indonesia.)
+Description : (gunakan bahasa inggris.)
 
 ## TL;DR
 
@@ -17,4 +17,4 @@ Description : (Wajib menggunakan bahasa indonesia.)
 
 ## Flag
 
-flagnya.p
+flagnya.

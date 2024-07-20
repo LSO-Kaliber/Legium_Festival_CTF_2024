@@ -5,7 +5,7 @@ Author : -
 
 Difficulty : -
 
-Description : (gunakan bahasa inggris.)
+Description : 
 
 ## TL;DR
 

@@ -1,0 +1,1 @@
+FLAG = b"LEST2024{bR0k33n_Pr1v4Te_k3y_1Z_n0_pR0bl3M_iTs_sTiLl_c4n_r3c0v3reD}"

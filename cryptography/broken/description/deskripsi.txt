@@ -1,6 +1,0 @@
-Judul: broken
-Deskripsi:
-Generate sebuah private key dan menghapus sebagian darinya,
-aku rasa hal itu adalah cara baru untuk mengamankan sebuah private key?
-
-#n4siKun1ng

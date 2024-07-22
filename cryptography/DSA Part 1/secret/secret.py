@@ -1,0 +1,1 @@
+flag = b"LEST2024{r4Nd0oMs_NumB3rsZ_4l23_1Mpo0RT4nt}"

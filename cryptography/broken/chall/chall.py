@@ -1,7 +1,8 @@
 from Crypto.Util.number import *
 from secret import FLAG
 
-FLAG = bytes_to_long(FLAG)
+FLAG1 = bytes_to_long(FLAG[:31])
+FLAG2 = bytes_to_long(FLAG[31:])
 def generate_prime():
     p = getPrime(512)
     q = getPrime(512)
@@ -23,10 +24,12 @@ def remove_partial(p: int):
 if "__main__" == __name__:
     p, q, e = generate_prime()
     n = p * q
-    phi = (p - 1) * (q - 1)
-    d = inverse(e, phi)
     
-    print(f"m: {pow(FLAG, e, n)}")
-    print(f"n: {hex(n)}")
+    r = getStrongPrime(1024)
+    
+    print(f"m1: {pow(FLAG1, e, n)}")
+    print(f"m2: {pow(FLAG2, e, r)}")
+    print(f"n1: {hex(n)}")
+    print(f"n2: {r - p}")
     print(f"p: {remove_partial(p)}")
     

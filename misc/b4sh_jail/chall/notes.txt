@@ -1,0 +1,8 @@
+folder ini dengan nama "159df48875627e2f7f66dae584c5e3a5" taruh di machine docker di /home
+di dalamnya ada flag.txt
+
+Yang dijalankan di dalam machine docker file bash_jail.py
+
+Notes!!!
+Pastikan bash versi 5.x.x
+Pastikan python3 terinstall

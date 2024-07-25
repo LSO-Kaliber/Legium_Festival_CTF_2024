@@ -9,7 +9,7 @@ result_i = []
 def encrypt_flag(flag):
     N = primeNumber
     result_i.clear()
-    for i in range(nbit):
+    for i in range(nbit*2):
         if egcd(flag, i)[0] == 1:
             N *= i
             result_i.append(i)

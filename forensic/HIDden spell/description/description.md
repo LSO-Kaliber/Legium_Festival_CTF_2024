@@ -12,9 +12,10 @@ Amidst the bustling currents of packets coursing through diverse spells, your ta
 - find the HID, password, and encrypted folder from the USB and FTP protocol
 - decrypt the password
 - unlock the encrypted folder using the decrypted password
-
+- WU References https://res260.medium.com/usb-pcap-forensics-barcode-scanner-nsec-ctf-2021-writeup-part-1-3-b0a5392c9313
+  
 ## Hint
--
+- keylogger???
 
 ## Flag
 

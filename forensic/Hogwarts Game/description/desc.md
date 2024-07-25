@@ -5,7 +5,7 @@ Author : p0t4rr
 
 Difficulty : medium
 
-Description : Potar, a young investigator with a keen eye for detail, stumbles upon an old, mysterious mansion rumored to hold secrets of great value. As he explores deeper, he encounters multiple levels of challenges that test his forensic skills.
+Potar, a young investigator with a keen eye for detail, stumbles upon an old, mysterious mansion rumored to hold secrets of great value. As he explores deeper, he encounters multiple levels of challenges that test his forensic skills.
 
 Level 1: The Broken Door
 
@@ -15,12 +15,9 @@ Level 2: The Hidden Room Behind the Paintings
 
 Upon entering, Potar finds himself surrounded by paintings of landscapes. Among them, he notices a peculiar painting of a HILL. Examining it closely, Potar discovers a hidden lever that reveals a secret room behind the painting.
 
-Level 3: Deciphering the Hidden Message
+Level 3: Hidden History
 
-Inside the secret room, Potar is surprised to find the walls are entirely covered in white. Amidst the blankness, he senses there must be a hidden message. Using his forensic tools and skills, Potar must meticulously search for any hidden clues or messages concealed within the white walls.
-
-
-Help Potar navigate through the mansion's challenges and uncover the hidden messages and secrets concealed within.
+Inside the secret room, Potar is surprised to find the walls are entirely covered in white. He then felt intrigued, "Why is this room all white and spotless?", said him. He couldn't help but to think that there is something here that has been hidden from him. Luckily, he remembered that he has his wand with him. Perhaps there is a spell to undo what might have happened? 
 
 ## TL;DR
 

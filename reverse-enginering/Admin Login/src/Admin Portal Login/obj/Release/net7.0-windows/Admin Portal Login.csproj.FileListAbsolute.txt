@@ -1,0 +1,36 @@
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.exe
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.deps.json
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.runtimeconfig.json
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.dll
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.pdb
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin_Portal_Login.FormAdminPortalLogin.resources
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin_Portal_Login.FormSuccessLogin.resources
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin_Portal_Login.Properties.Resources.resources
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.csproj.GenerateResource.cache
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.AssemblyInfoInputs.cache
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.AssemblyInfo.cs
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.csproj.CoreCompileInputs.cache
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.dll
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\refint\Admin Portal Login.dll
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.pdb
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.genruntimeconfig.cache
+C:\Users\Bimo Yudistira Ariel\source\repos\Admin Portal Login\Admin Portal Login\obj\Release\net7.0-windows\ref\Admin Portal Login.dll
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.exe
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.deps.json
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.runtimeconfig.json
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.dll
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\bin\Release\net7.0-windows\Admin Portal Login.pdb
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin_Portal_Login.FormAdminPortalLogin.resources
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin_Portal_Login.FormSuccessLogin.resources
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin_Portal_Login.Properties.Resources.resources
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.csproj.GenerateResource.cache
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.AssemblyInfoInputs.cache
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.AssemblyInfo.cs
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.csproj.CoreCompileInputs.cache
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.dll
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\refint\Admin Portal Login.dll
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.pdb
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\Admin Portal Login.genruntimeconfig.cache
+C:\Users\percayajanji\Desktop\Soal Legicomp\Reverse Engineering\Admin Portal Login\src\Admin Portal Login\obj\Release\net7.0-windows\ref\Admin Portal Login.dll

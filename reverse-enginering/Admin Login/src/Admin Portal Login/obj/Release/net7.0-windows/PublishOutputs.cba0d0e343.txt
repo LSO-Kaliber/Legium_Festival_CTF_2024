@@ -1,0 +1,5 @@
+C:\Users\Bimo Yudistira Ariel\Desktop\Admin Portal Login.exe
+C:\Users\Bimo Yudistira Ariel\Desktop\Admin Portal Login.dll
+C:\Users\Bimo Yudistira Ariel\Desktop\Admin Portal Login.deps.json
+C:\Users\Bimo Yudistira Ariel\Desktop\Admin Portal Login.runtimeconfig.json
+C:\Users\Bimo Yudistira Ariel\Desktop\Admin Portal Login.pdb

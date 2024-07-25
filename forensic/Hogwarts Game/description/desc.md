@@ -13,7 +13,8 @@ Potar discovers the mansion's front door is damaged and needs repair to gain ent
 
 Level 2: The Hidden Room Behind the Paintings
 
-Upon entering, Potar finds himself surrounded by paintings of landscapes. Among them, he notices a peculiar painting of a HILL. Examining it closely, Potar discovers a hidden lever that reveals a secret room behind the painting.
+Upon entering, Potar finds himself surrounded by a lot of paintings. Some looking almost identical to the other
+Among them, he notices a peculiar painting of a HILL. Examining it closely, Potar discovers a hidden lever that reveals a secret room behind the painting.
 
 Level 3: Hidden History
 

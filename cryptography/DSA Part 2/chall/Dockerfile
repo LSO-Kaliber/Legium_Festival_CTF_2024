@@ -12,6 +12,6 @@ WORKDIR /opt/chall
 
 COPY *.py .
 
-EXPOSE 4000
+EXPOSE 42061
 
-CMD socat TCP-LISTEN:4000,reuseaddr,fork EXEC:"python3 -u chall.py"
+CMD socat TCP-LISTEN:42061,reuseaddr,fork EXEC:"python3 -u chall.py"

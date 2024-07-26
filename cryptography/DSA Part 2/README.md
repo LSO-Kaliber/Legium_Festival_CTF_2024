@@ -1,7 +1,8 @@
 # DSA Part 2
-## Description
 
 Author : BosToken
+
+## Description
 
 Difficulty : Normal
 
@@ -17,6 +18,10 @@ Description : I fixed the Signature Generate algorithm yesterday, hopefully ther
 
 ## Hint 
 
+- No hint.
+
 ## Flag
 
+```
 LEST2024{|t_\/\/0u|_|)_|3{-_\/3|2y_f4TaL_+o_--_r(-uS3_4_r4nd0|\/|_number_+|-|4t_has_|3{-{-|\|_used,_you_(/-\|\|_even_recover_+|-|{-_private_key}
+```

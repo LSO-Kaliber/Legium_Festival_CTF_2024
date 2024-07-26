@@ -1,6 +1,6 @@
 import random
 
-flag = 'LEST2024{xor_chall3nGe_maK3_Me_h4pPy}'  # This is dummy flag
+flag = 'LEST2024{REDACTED}'  # This is dummy flag
 key_1 = [random.randint(1, 200) for _ in range(2)]
 key_2 = [random.randint(1, 500) for _ in range(2)]
 

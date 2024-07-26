@@ -1,7 +1,8 @@
 # babyXor
-## Description
 
 Author : BosToken
+
+## Description
 
 Difficulty : Easy
 
@@ -17,6 +18,10 @@ Description : i think its super easy
 
 ## Hint 
 
+- No hint.
+
 ## Flag
 
+```
 LEST2024{xor_chall3nGe_maK3_Me_h4pPy}
+```

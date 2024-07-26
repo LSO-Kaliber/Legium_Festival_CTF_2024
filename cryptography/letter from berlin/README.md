@@ -1,7 +1,8 @@
 # DSA Part 2
-## Description
 
 Author : BosToken
+
+## Description
 
 Difficulty : Easy
 
@@ -15,6 +16,10 @@ Description : I Fixed
 
 ## Hint 
 
+- No hint.
+
 ## Flag
 
+```
 LEST2024{1Ts_n0T_3n1gM4_juSzt_s1mPlE_ROT4t1oN}
+```

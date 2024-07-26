@@ -1,21 +1,25 @@
 # Alien Sound
 
-## Description
-
 Author : shalord
+
+## Description
 
 Difficulty : Easy
 
-Description : 
-Anomaly sound?
+Description : Anomaly sound?
 
 ## TL;DR
+
 1. Open the file "alien.wav".
 2. Identify the audio and get the flag
 3. Wrap the flag with LEST2024{your_flag_here} format
 
 ## Hint 
 
+- No hint.
+
 ## Flag
 
+```
 LEST2024{yEEA_Y@N6_32_e2_Aj4h}
+```

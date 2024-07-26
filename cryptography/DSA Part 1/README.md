@@ -1,7 +1,8 @@
 # DSA Part 1
-## Description
 
 Author : BosToken
+
+## Description
 
 Difficulty : Normal
 
@@ -15,6 +16,10 @@ Description : I made a transaction application, and I applied the Digital Signat
 
 ## Hint 
 
+- No hint.
+
 ## Flag
 
+```
 LEST2024{r4Nd0oMs_NumB3rsZ_4l23_1Mpo0RT4nt}
+```

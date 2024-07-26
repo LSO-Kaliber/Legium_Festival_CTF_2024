@@ -1,7 +1,8 @@
 # Alan Mathison
-## Description
 
 Author : BosToken
+
+## Description
 
 Difficulty : Easy
 
@@ -16,7 +17,12 @@ Format flag LEST2024{*.}
 
 ## Hint 
 
+- No hint.
 
 ## Flag
 
+```
 LEST2024{enigma_is_cool_right}
+
+LEST2024{waokwo_ak_xryg_qwsyu}
+```

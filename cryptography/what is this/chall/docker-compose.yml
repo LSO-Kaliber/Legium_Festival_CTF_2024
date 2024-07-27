@@ -1,0 +1,9 @@
+name: what-is-this
+services:
+  chall:
+    image: lest/what-is-this
+    build: .
+    container_name: what-is-this
+    restart: always
+    ports:
+      - 42062:42062

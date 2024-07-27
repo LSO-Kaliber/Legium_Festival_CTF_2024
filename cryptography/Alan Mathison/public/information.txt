@@ -1,0 +1,4 @@
+M3 UKWB 
+Rotor : IV, Postion : 4, Ring : 3
+Rotor : V, Position : 14, Ring : 4
+Rotor : VII, Position : 9, Ring : 5

@@ -1,0 +1,11 @@
+name: phpez
+services:
+  chall:
+    image: lest/phpez
+    build: .
+    restart: always
+    container_name: phpez
+    ports:
+      - 42110:80
+    environment:
+      - FLAG=LEST2024{Ju5T_4_S1mpL3_C0nd1Ti0N4L_St4T3MeNt}

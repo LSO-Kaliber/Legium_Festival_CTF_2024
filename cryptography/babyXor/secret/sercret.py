@@ -1,1 +1,0 @@
-flag = 'LEST2024{xor_chall3nGe_maK3_Me_h4pPy}'

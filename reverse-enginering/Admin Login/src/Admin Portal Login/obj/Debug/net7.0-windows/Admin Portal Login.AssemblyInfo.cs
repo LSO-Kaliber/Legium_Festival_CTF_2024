@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Admin Portal Login")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b528ad2b419c6b1d0c83fa59c5db2ce5df3e41cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Admin Portal Login")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Admin Portal Login")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

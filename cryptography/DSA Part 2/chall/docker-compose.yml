@@ -1,0 +1,9 @@
+name: dsa-part-2
+services:
+  chall:
+    image: lest/dsa-part-2
+    build: .
+    container_name: dsa-part-2
+    restart: always
+    ports:
+      - 42061:42061

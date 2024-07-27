@@ -1,17 +1,20 @@
 # Zero Driver
-## Description
 
 Author : aseng
 
-Difficulty : easy
+## Description
+
+Difficulty : Easy
+
+Description : 
 
 Given a x64 executable to validate a single file but I don't think this problem setter has a lot of effort. However why am I seeing a bunch of Windows Driver Kit API in here? 
 
 ## TL;DR
 
-- Obfuscation on WinAPI Arbitrary Calls
-- Realized that it's only loading a `.rsrc` buffer
-- Flag is located and extracted from resources and compared, so just export all the buffer and saves it as a file
+- Obfuscation on WinAPI Arbitrary Calls.
+- Realized that it's only loading a `.rsrc` buffer.
+- Flag is located and extracted from resources and compared, so just export all the buffer and saves it as a file.
 - The file is a Ms Docx file , flag is in there!
 
 ## Hint 
@@ -21,4 +24,6 @@ Given a x64 executable to validate a single file but I don't think this problem 
 
 ## Flag
 
+```
 LEST2024{wind0ws_4p1_i5_We1Rd}
+```

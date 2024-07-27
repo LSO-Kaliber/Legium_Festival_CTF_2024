@@ -1,9 +1,12 @@
 # Hogwarts Game
-## Description
 
 Author : p0t4rr
 
+## Description
+
 Difficulty : medium
+
+Description :
 
 Potar, a young investigator with a keen eye for detail, stumbles upon an old, mysterious mansion rumored to hold secrets of great value. As he explores deeper, he encounters multiple levels of challenges that test his forensic skills.
 
@@ -35,4 +38,6 @@ Inside the secret room, Potar is surprised to find the walls are entirely covere
 
 ## Flag
 
+```
 LEST2024{b4ng_h4rrY_b3lajar_cTf_b3eRs4maa}
+```

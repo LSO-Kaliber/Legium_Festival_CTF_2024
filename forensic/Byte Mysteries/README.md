@@ -1,8 +1,8 @@
 # The Vanishing Code
 
-## Description
-
 Author: shalord
+
+## Description
 
 Difficulty: Medium
 
@@ -23,4 +23,6 @@ In 2024, a crucial message about a top-secret World War III operation was hidden
 
 ## Flag
 
+```
 LEST2024{NuC134R_5ECRE7T_unv3!LEd_2024}
+```

@@ -1,0 +1,9 @@
+name: b4sh_jail
+services:
+  chall:
+    image: lest/b4sh_jail
+    build: .
+    container_name: b4sh_jail
+    restart: always
+    ports:
+      - 42051:42051
